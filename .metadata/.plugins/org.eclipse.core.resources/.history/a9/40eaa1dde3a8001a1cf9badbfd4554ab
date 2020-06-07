@@ -1,0 +1,17 @@
+package com.rsc.babystepprogram;
+
+public class JavaScientificCalculator {
+
+	public int add(int a, int b) {
+		return a + b;
+	}
+
+	public static void main(String[] args) {
+
+		JavaScientificCalculator jsc = new JavaScientificCalculator();
+
+		System.out.println("Summation of 5 and 2==>" + jsc.add(5, 2));
+
+		System.out.println("Complete");
+	}
+}

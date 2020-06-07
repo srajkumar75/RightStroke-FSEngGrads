@@ -41,6 +41,8 @@ public class JavaScientificCalculator {
 		System.out.println("Square Root of 3==>" + jsc.squareroot(3));
 
 		System.out.println("Cube Root of 6==>" + jsc.cuberoot(6));
+		
+		System.out.println("Cube Root of 7==>" + jsc.cuberoot(7));
 
 		System.out.println("Tan of 45==>" + jsc.tan(45));
 		
